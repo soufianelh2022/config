@@ -11,7 +11,7 @@
   "bannerAdUnitId": "R-M-20250529-1",
   "nativeEnabled": true,
   "nativeAdUnitId": "R-M-20250529-2",
-  "fullscreenIntervalSeconds": 20,
+  "fullscreenIntervalSeconds": 30,
   "interstitialEveryDetails": 1,
   "nativeEveryItems": 6,
   "loadTimeoutSeconds": 20,
